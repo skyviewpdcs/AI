@@ -1,0 +1,487 @@
+﻿agent.name,rule.firedtimes,rule.description,timestamp,rule.level,rule.nist_800_53,location,rule.mitre.tactic,rule.mitre.technique,Count
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.180",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.180",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.180",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.180",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.180",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.180",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.180",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.180",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.357",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.357",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.357",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.357",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.357",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.357",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.357",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.357",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.585",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.585",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.585",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.585",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.585",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.585",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.585",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.585",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.990",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.990",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.990",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.990",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.990",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.990",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.990",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.990",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 14:20:20.193",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 14:20:20.193",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 14:20:20.193",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 14:20:20.193",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 14:20:20.193",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 14:20:20.193",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 14:20:20.193",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 14:20:20.193",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 15:00:38.736",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 15:00:38.736",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 15:00:38.736",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 15:00:38.736",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 15:00:38.736",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 15:00:38.736",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 15:00:38.736",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 15:00:38.736",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 16:03:20.334",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 16:03:20.334",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 16:03:20.334",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 16:03:20.334",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 16:03:20.334",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 16:03:20.334",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 16:03:20.334",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 16:03:20.334",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 17:03:20.214",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 17:03:20.214",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 17:03:20.214",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 17:03:20.214",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 17:03:20.214",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 17:03:20.214",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 17:03:20.214",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 17:03:20.214",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 18:03:10.043",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 18:03:10.043",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 18:03:10.043",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 18:03:10.043",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 18:03:10.043",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 18:03:10.043",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 18:03:10.043",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,1,Windows Logon Success,"Nov 29, 2022 18:03:10.043",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.181",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.181",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.181",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.181",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.181",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.181",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.181",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:37.181",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.362",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.362",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.362",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.362",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.362",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.362",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.362",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:01.362",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 14:20:20.195",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 14:20:20.195",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 14:20:20.195",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 14:20:20.195",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 14:20:20.195",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 14:20:20.195",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 14:20:20.195",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 14:20:20.195",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 15:03:20.201",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 15:03:20.201",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 15:03:20.201",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 15:03:20.201",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 15:03:20.201",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 15:03:20.201",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 15:03:20.201",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 15:03:20.201",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 16:03:26.984",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 16:03:26.984",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 16:03:26.984",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 16:03:26.984",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 16:03:26.984",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 16:03:26.984",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 16:03:26.984",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 16:03:26.984",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 17:03:25.147",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 17:03:25.147",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 17:03:25.147",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 17:03:25.147",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 17:03:25.147",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 17:03:25.147",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 17:03:25.147",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 17:03:25.147",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 18:03:20.191",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 18:03:20.191",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 18:03:20.191",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 18:03:20.191",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 18:03:20.191",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 18:03:20.191",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 18:03:20.191",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,2,Windows Logon Success,"Nov 29, 2022 18:03:20.191",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:03.208",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:03.208",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:03.208",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:03.208",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:03.208",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:03.208",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:03.208",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 16:00:03.208",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 17:00:02.590",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.995",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 14:22:07.507",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 14:22:07.507",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 14:22:07.507",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 14:22:07.507",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 14:22:07.507",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 14:22:07.507",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 14:22:07.507",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 14:22:07.507",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 15:03:20.203",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 15:03:20.203",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 15:03:20.203",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 15:03:20.203",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 15:03:20.203",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 15:03:20.203",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 15:03:20.203",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 15:03:20.203",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 16:03:31.577",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 16:03:31.577",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 16:03:31.577",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 16:03:31.577",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 16:03:31.577",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 16:03:31.577",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 16:03:31.577",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 16:03:31.577",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 17:03:26.245",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 17:03:26.245",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 17:03:26.245",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 17:03:26.245",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 17:03:26.245",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 17:03:26.245",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 17:03:26.245",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 17:03:26.245",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 18:03:27.050",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 18:03:27.050",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 18:03:27.050",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 18:03:27.050",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 18:03:27.050",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 18:03:27.050",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 18:03:27.050",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,3,Windows Logon Success,"Nov 29, 2022 18:03:27.050",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 14:17:38.459",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.179",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.996",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.996",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.996",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.996",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.996",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.996",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.996",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 18:00:00.996",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.175",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.175",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.175",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.175",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.175",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.175",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.175",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.175",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.345",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.345",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.345",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.345",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.345",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.345",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.345",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.345",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 15:03:20.205",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 15:03:20.205",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 15:03:20.205",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 15:03:20.205",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 15:03:20.205",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 15:03:20.205",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 15:03:20.205",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 15:03:20.205",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 16:15:36.694",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 16:15:36.694",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 16:15:36.694",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 16:15:36.694",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 16:15:36.694",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 16:15:36.694",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 16:15:36.694",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 16:15:36.694",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 18:06:41.330",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 18:06:41.330",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 18:06:41.330",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 18:06:41.330",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 18:06:41.330",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 18:06:41.330",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 18:06:41.330",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 18:06:41.330",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 19:13:35.933",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 19:13:35.933",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 19:13:35.933",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 19:13:35.933",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 19:13:35.933",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 19:13:35.933",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 19:13:35.933",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 19:13:35.933",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 22:11:43.932",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 22:11:43.932",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 22:11:43.932",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 22:11:43.932",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 22:11:43.932",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 22:11:43.932",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 22:11:43.932",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,4,Windows Logon Success,"Nov 29, 2022 22:11:43.932",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,4,Registry Key Integrity Checksum Changed,"Nov 30, 2022 02:18:02.125",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,4,Registry Key Integrity Checksum Changed,"Nov 30, 2022 14:18:11.068",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,4,Registry Key Integrity Checksum Changed,"Dec 1, 2022 14:18:35.021",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,4,Registry Key Integrity Checksum Changed,"Dec 2, 2022 02:32:51.721",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,4,Registry Key Integrity Checksum Changed,"Dec 2, 2022 14:33:07.529",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,4,Registry Value Integrity Checksum Changed,"Dec 1, 2022 02:18:19.806",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,4,Registry Value Integrity Checksum Changed,"Dec 1, 2022 14:18:34.857",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,4,Registry Value Integrity Checksum Changed,"Dec 2, 2022 02:32:51.712",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,4,Registry Value Integrity Checksum Changed,"Dec 2, 2022 14:33:05.832",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,4,Registry Value Integrity Checksum Changed,"Dec 5, 2022 10:10:22.497",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 15:08:55.222",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 15:08:55.222",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 15:08:55.222",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 15:08:55.222",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 15:08:55.222",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 15:08:55.222",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 15:08:55.222",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 15:08:55.222",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 16:18:32.870",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 16:18:32.870",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 16:18:32.870",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 16:18:32.870",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 16:18:32.870",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 16:18:32.870",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 16:18:32.870",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 16:18:32.870",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 19:30:36.509",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 19:30:36.509",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 19:30:36.509",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 19:30:36.509",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 19:30:36.509",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 19:30:36.509",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 19:30:36.509",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 19:30:36.509",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 21:15:31.871",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 21:15:31.871",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 21:15:31.871",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 21:15:31.871",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 21:15:31.871",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 21:15:31.871",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 21:15:31.871",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 21:15:31.871",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 23:21:30.199",3,AC.7,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 23:21:30.199",3,AC.7,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 23:21:30.199",3,AC.7,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 23:21:30.199",3,AC.7,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 23:21:30.199",3,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 23:21:30.199",3,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 23:21:30.199",3,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Windows Logon Success,"Nov 29, 2022 23:21:30.199",3,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 15:00:01.180",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 19:00:02.411",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 19:00:02.411",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 19:00:02.411",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 19:00:02.411",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 19:00:02.411",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 19:00:02.411",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 19:00:02.411",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 19:00:02.411",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.173",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.173",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.173",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.173",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.173",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.173",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.173",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 20:00:01.173",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.346",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.346",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.346",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.346",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.346",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.346",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.346",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 21:00:01.346",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 22:00:01.705",4,AC.6,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 22:00:01.705",4,AC.6,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 22:00:01.705",4,AC.6,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 22:00:01.705",4,AC.6,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 22:00:01.705",4,AU.14,EventChannel,Defense Evasion,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 22:00:01.705",4,AU.14,EventChannel,Initial Access,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 22:00:01.705",4,AU.14,EventChannel,Persistence,Valid Accounts,1
+HarrysLaptop,6,Failed attempt to perform a privileged operation,"Nov 29, 2022 22:00:01.705",4,AU.14,EventChannel,Privilege Escalation,Valid Accounts,1
+HarrysLaptop,6,Registry Value Integrity Checksum Changed,"Nov 30, 2022 14:18:10.798",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,6,Registry Value Integrity Checksum Changed,"Dec 1, 2022 02:18:19.806",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,6,Registry Value Integrity Checksum Changed,"Dec 1, 2022 14:18:34.858",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,6,Registry Value Integrity Checksum Changed,"Dec 2, 2022 02:32:51.712",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,6,Registry Value Integrity Checksum Changed,"Dec 2, 2022 14:33:05.832",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,6,Registry Key Integrity Checksum Changed,"Nov 30, 2022 14:18:11.340",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,6,Registry Key Integrity Checksum Changed,"Dec 1, 2022 02:18:21.020",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,6,Registry Key Integrity Checksum Changed,"Dec 1, 2022 14:18:35.021",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,6,Registry Key Integrity Checksum Changed,"Dec 2, 2022 02:32:52.996",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+HarrysLaptop,6,Registry Key Integrity Checksum Changed,"Dec 5, 2022 10:10:22.502",5,SI.7,syscheck,Impact,Stored Data Manipulation,1
+atom,3,Ossec agent disconnected.,"Dec 11, 2022 20:09:10.003",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,3,Ossec agent disconnected.,"Dec 11, 2022 20:09:10.003",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,3,Ossec agent disconnected.,"Dec 11, 2022 20:09:10.003",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,3,Ossec agent disconnected.,"Dec 12, 2022 11:19:20.415",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,3,Ossec agent disconnected.,"Dec 12, 2022 11:19:20.415",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,3,Ossec agent disconnected.,"Dec 12, 2022 11:19:20.415",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,3,Ossec agent disconnected.,"Dec 12, 2022 13:09:21.650",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,3,Ossec agent disconnected.,"Dec 12, 2022 13:09:21.650",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,3,Ossec agent disconnected.,"Dec 12, 2022 13:09:21.650",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,3,Ossec agent disconnected.,"Dec 15, 2022 09:39:01.016",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,3,Ossec agent disconnected.,"Dec 15, 2022 09:39:01.016",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,3,Ossec agent disconnected.,"Dec 15, 2022 09:39:01.016",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,3,Ossec agent disconnected.,"Dec 20, 2022 15:52:59.679",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,3,Ossec agent disconnected.,"Dec 20, 2022 15:52:59.679",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,3,Ossec agent disconnected.,"Dec 20, 2022 15:52:59.679",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,6,Ossec agent disconnected.,"Dec 11, 2022 20:10:50.025",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,6,Ossec agent disconnected.,"Dec 11, 2022 20:10:50.025",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,6,Ossec agent disconnected.,"Dec 11, 2022 20:10:50.025",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,6,Ossec agent disconnected.,"Dec 20, 2022 16:33:00.190",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,6,Ossec agent disconnected.,"Dec 20, 2022 16:33:00.190",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,6,Ossec agent disconnected.,"Dec 20, 2022 16:33:00.190",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,6,Ossec agent disconnected.,"Dec 20, 2022 17:39:41.009",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,6,Ossec agent disconnected.,"Dec 20, 2022 17:39:41.009",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,6,Ossec agent disconnected.,"Dec 20, 2022 17:39:41.009",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,6,Ossec agent disconnected.,"Dec 20, 2022 20:46:33.622",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,6,Ossec agent disconnected.,"Dec 20, 2022 20:46:33.622",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,6,Ossec agent disconnected.,"Dec 20, 2022 20:46:33.622",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,6,Ossec agent disconnected.,"Dec 20, 2022 21:26:34.077",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,6,Ossec agent disconnected.,"Dec 20, 2022 21:26:34.077",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,6,Ossec agent disconnected.,"Dec 20, 2022 21:26:34.077",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,1,Ossec agent disconnected.,"Nov 16, 2022 20:05:02.354",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,3
+atom,1,Ossec agent disconnected.,"Nov 16, 2022 20:05:02.354",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,3
+atom,1,Ossec agent disconnected.,"Nov 16, 2022 20:05:02.354",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,3
+atom,1,Ossec agent disconnected.,"Nov 18, 2022 07:02:27.771",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,1,Ossec agent disconnected.,"Nov 18, 2022 07:02:27.771",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,1,Ossec agent disconnected.,"Nov 18, 2022 07:02:27.771",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,1,Ossec agent disconnected.,"Nov 19, 2022 16:37:58.135",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,1,Ossec agent disconnected.,"Nov 19, 2022 16:37:58.135",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,1,Ossec agent disconnected.,"Nov 19, 2022 16:37:58.135",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,1,Ossec agent disconnected.,"Nov 19, 2022 20:06:30.465",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,1,Ossec agent disconnected.,"Nov 19, 2022 20:06:30.465",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,1,Ossec agent disconnected.,"Nov 19, 2022 20:06:30.465",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,1,Ossec agent disconnected.,"Nov 20, 2022 20:10:14.875",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,1,Ossec agent disconnected.,"Nov 20, 2022 20:10:14.875",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,1,Ossec agent disconnected.,"Nov 20, 2022 20:10:14.875",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,9,Ossec agent disconnected.,"Dec 20, 2022 16:48:00.385",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,9,Ossec agent disconnected.,"Dec 20, 2022 16:48:00.385",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,9,Ossec agent disconnected.,"Dec 20, 2022 16:48:00.385",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,9,Ossec agent disconnected.,"Dec 20, 2022 21:48:14.322",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,9,Ossec agent disconnected.,"Dec 20, 2022 21:48:14.322",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,9,Ossec agent disconnected.,"Dec 20, 2022 21:48:14.322",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,9,Ossec agent disconnected.,"Dec 20, 2022 22:51:35.066",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,9,Ossec agent disconnected.,"Dec 20, 2022 22:51:35.066",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,9,Ossec agent disconnected.,"Dec 20, 2022 22:51:35.066",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,9,Ossec agent disconnected.,"Dec 21, 2022 00:43:16.357",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,9,Ossec agent disconnected.,"Dec 21, 2022 00:43:16.357",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,9,Ossec agent disconnected.,"Dec 21, 2022 00:43:16.357",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,9,Ossec agent disconnected.,"Dec 21, 2022 01:53:17.162",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,9,Ossec agent disconnected.,"Dec 21, 2022 01:53:17.162",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,9,Ossec agent disconnected.,"Dec 21, 2022 01:53:17.162",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,2,Ossec agent disconnected.,"Dec 2, 2022 22:06:49.619",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,2,Ossec agent disconnected.,"Dec 2, 2022 22:06:49.619",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,2,Ossec agent disconnected.,"Dec 2, 2022 22:06:49.619",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,2,Ossec agent disconnected.,"Dec 21, 2022 03:21:38.195",13,AU.14,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,2,Ossec agent disconnected.,"Dec 21, 2022 03:21:38.195",13,AU.5,ossec-monitord,Defense Evasion,Disabling Security Tools,1
+atom,2,Ossec agent disconnected.,"Dec 21, 2022 03:21:38.195",13,AU.6,ossec-monitord,Defense Evasion,Disabling Security Tools,1
